@@ -1,1 +1,8 @@
-zmiana w pierwszej linii a teraz powinno siasc
+#include <stdio.h>
+
+int main()
+{
+	printf("moj pierwszy program w C");
+	return 0;
+
+}
